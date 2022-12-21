@@ -2,8 +2,8 @@
 
 | Status                   |                  |
 | ------------------------ |------------------|
-| Stability                | traces [beta]    |
-|                          | metrics [beta]   |
+| Stability                | traces [stable]    |
+|                          | metrics [stable]   |
 |                          | logs [alpha]     |
 | Supported pipeline types | traces, metrics, logs|
 | Distributions            | [contrib], [AWS] |
